@@ -66,6 +66,5 @@ Amazing! You got them all right!
 1. **Mathan Cutamora** — Lead developer; implemented core logic, GUI system, and major features  
 2. **Rj Cabungcal** — Concept creator; contributed to quiz idea and question design  
 3. **Jeayan Gongora** — Assisted in development; improved code structure, readability, and grammar  
-4. **Testers & Feedback Contributors** — Helped refine gameplay, identify bugs, and suggest improvements  
 
 ---
