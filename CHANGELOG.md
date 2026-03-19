@@ -51,3 +51,33 @@ v4.2 → v4.3
 Improved UI layout — cleaner spacing and better readability.
 
 Added dynamic labels showing player name and current question number.
+
+v4.3 → v5.0
+
+Added timer system — each question now has a time limit.
+
+Automatically skips question when time runs out.
+
+v5.0 → v5.1
+
+Added difficulty selection — Easy, Medium, and Hard modes.
+
+Each difficulty now has 10 questions for better variety.
+
+Only 5 random questions are asked per game.
+
+v5.1 → v5.2
+
+Implemented difficulty-based timers:
+
+Easy → 5 seconds
+
+Medium → 10 seconds
+
+Hard → 15 seconds
+
+v5.2 → v5.3
+
+Organized questions by subject — Math, Biology, Physics, Chemistry, and English.
+
+Ensured balanced mix of subjects in each quiz session.
