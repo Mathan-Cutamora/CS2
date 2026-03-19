@@ -81,3 +81,13 @@ v5.2 → v5.3
 Organized questions by subject — Math, Biology, Physics, Chemistry, and English.
 
 Ensured balanced mix of subjects in each quiz session.
+
+v5.3 → v5.4
+
+Added replay system — users can restart the quiz after finishing.
+
+Added option to replay with the same difficulty.
+
+Added option to return to menu and choose a different difficulty.
+
+Improved overall user experience by allowing continuous gameplay without restarting the program.
